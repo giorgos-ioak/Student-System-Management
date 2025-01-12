@@ -8,7 +8,7 @@
 <br>
 <br>
 
-This application was created for the first course of the **Microsoft Backend Developer Professional Cerificate**.
+This application was created for the first course of the **Microsoft Backend Developer Professional Certificate**.
 <br>
 <br>
 ### Flowchart
